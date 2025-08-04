@@ -1,0 +1,5 @@
+Sure, here's the contents for the file: /text-summarization/text-summarization/requirements.txt
+
+torch
+numpy
+pandas
